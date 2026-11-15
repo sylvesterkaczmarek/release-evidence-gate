@@ -1,0 +1,12 @@
+{
+  "name": "release-evidence-gate",
+  "version": "0.1.0",
+  "description": "Check signed CI evidence for the exact commit passed to a release tool in Claude Code.",
+  "author": {
+    "name": "Sylvester Kaczmarek"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sylvesterkaczmarek/release-evidence-gate#readme",
+  "repository": "https://github.com/sylvesterkaczmarek/release-evidence-gate",
+  "icon": "./.claude-plugin/icon.png"
+}
