@@ -1,0 +1,10 @@
+{
+  "name": "release-evidence-stage",
+  "version": "0.1.0",
+  "description": "Stage a commit in a local release ledger only after checking its signed CI receipt.",
+  "author": { "name": "Sylvester Kaczmarek" },
+  "homepage": "https://github.com/sylvesterkaczmarek/release-evidence-gate/tree/main/directory-plugin",
+  "repository": "https://github.com/sylvesterkaczmarek/release-evidence-gate",
+  "icon": "./.claude-plugin/icon.png",
+  "license": "MIT"
+}
